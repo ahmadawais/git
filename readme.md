@@ -22,7 +22,7 @@ What? OK! [Read more about it →](https://WPCouple.com/partners)
         <td width="225"><a href="https://AhmadAwais.com/"><img src="http://on.ahmda.ws/mtyZ/c" alt="" /></a></td>
     </tr>
     <tr>
-        <td width="225"><a href="https://AhmadAwais.com/"><img src="http://on.ahmda.ws/mtiS/c" alt="" /></a></td>
+        <td width="225"><a href="https://AhmadAwais.com/"><img src="http://on.ahmda.ws/mtrv/c" alt="" /></a></td>
         <td width="225"><a href="https://AhmadAwais.com/"><img src="http://on.ahmda.ws/mtqR/c" alt="" /></a></td>
         <td width="225"><a href="https://AhmadAwais.com/"><img src="http://on.ahmda.ws/mtoD/c" alt="" /></a></td>
         <td width="225"><a href="https://AhmadAwais.com/"><img src="http://on.ahmda.ws/mtqw/c" alt="" /></a></td>
