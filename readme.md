@@ -35,8 +35,8 @@ What? OK! [Read more about it →](https://WPCouple.com/partners)
     </tr>
     <tr>
         <td width="225"><a target="_blank" href="https://www.liquidweb.com//?utm_source=WPCouple&utm_medium=Partner"><img src="http://on.ahmda.ws/mtnt/c" alt="" /></a></td>
-        <td width="225"><a target="_blank" href="https://WPCouple.com/contact?utm_source=WPCouple&utm_medium=Partner"><img src="http://on.ahmda.ws/mtwZ/c" alt="" /></a></td>
-        <td width="225"><a target="_blank" href="https://WPCouple.com/contact?utm_source=WPCouple&utm_medium=Partner"><img src="http://on.ahmda.ws/mtwZ/c" alt="" /></a></td>
-        <td width="225"><a target="_blank" href="https://WPCouple.com/contact?utm_source=WPCouple&utm_medium=Partner"><img src="http://on.ahmda.ws/mtwZ/c" alt="" /></a></td>
+        <td width="225"><a target="_blank" href="https://WPCouple.com/contact?utm_source=WPCouple&utm_medium=Partner"><img src="http://on.ahmda.ws/mu3F/c" alt="" /></a></td>
+        <td width="225"><a target="_blank" href="https://WPCouple.com/contact?utm_source=WPCouple&utm_medium=Partner"><img src="http://on.ahmda.ws/mu3F/c" alt="" /></a></td>
+        <td width="225"><a target="_blank" href="https://WPCouple.com/contact?utm_source=WPCouple&utm_medium=Partner"><img src="http://on.ahmda.ws/mu3F/c" alt="" /></a></td>
     </tr>
 </table>
