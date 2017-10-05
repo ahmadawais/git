@@ -5,10 +5,10 @@ IGNORE THIS ONE!
 <table width='100%'>
     <tr>
         <td>
-            <img src="http://on.ahmda.ws/mtiU/c" alt="" />
+            <a href="https://AhmadAwais.com/"><img src="http://on.ahmda.ws/mtiU/c" alt="" /></a>
         </td>
         <td>
-            <img src="http://on.ahmda.ws/mtiU/c" alt="" />
+            <a href="https://AhmadAwais.com/"><img src="http://on.ahmda.ws/mtiU/c" alt="" /></a>
         </td>
     </tr>
 </table>
