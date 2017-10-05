@@ -9,7 +9,7 @@ IGNORE THIS ONE!
     <tr>
         <td width="225"><a href="https://AhmadAwais.com/"><img src="http://on.ahmda.ws/mu6W/c" alt="" /></a></td>
         <td width="225"><a href="https://AhmadAwais.com/"><img src="http://on.ahmda.ws/mtiU/c" alt="" /></a></td>
-        <td width="225"><a href="https://AhmadAwais.com/"><img src="http://on.ahmda.ws/mu7O/c" alt="" /></a></td>
+        <td width="225"><a href="https://AhmadAwais.com/"><img src="http://on.ahmda.ws/mtn0/c" alt="" /></a></td>
         <td width="225"><a href="https://AhmadAwais.com/"><img src="http://on.ahmda.ws/mu9F/c" alt="" /></a></td>
     </tr>
     <tr>
