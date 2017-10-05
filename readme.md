@@ -16,27 +16,27 @@ What? OK! [Read more about it →](https://WPCouple.com/partners)
 
 <table width='100%'>
     <tr>
-        <td width="225"><a href="https://AhmadAwais.com/"><img src="http://on.ahmda.ws/mtrE/c" alt="" /></a></td>
-        <td width="225"><a href="https://AhmadAwais.com/"><img src="http://on.ahmda.ws/mu8W/c" alt="" /></a></td>
-        <td width="225"><a href="https://AhmadAwais.com/"><img src="http://on.ahmda.ws/mtnh/c" alt="" /></a></td>
-        <td width="225"><a href="https://AhmadAwais.com/"><img src="http://on.ahmda.ws/mtyZ/c" alt="" /></a></td>
+        <td width="225"><a target="_blank" href="https://www.gravityforms.com/"><img src="http://on.ahmda.ws/mtrE/c" alt="" /></a></td>
+        <td width="225"><a target="_blank" href="https://kinsta.com/"><img src="http://on.ahmda.ws/mu8W/c" alt="" /></a></td>
+        <td width="225"><a target="_blank" href="https://wpengine.com/"><img src="http://on.ahmda.ws/mtnh/c" alt="" /></a></td>
+        <td width="225"><a target="_blank" href="https://www.sitelock.com/"><img src="http://on.ahmda.ws/mtyZ/c" alt="" /></a></td>
     </tr>
     <tr>
-        <td width="225"><a href="https://AhmadAwais.com/"><img src="http://on.ahmda.ws/mtrv/c" alt="" /></a></td>
-        <td width="225"><a href="https://AhmadAwais.com/"><img src="http://on.ahmda.ws/mtqR/c" alt="" /></a></td>
-        <td width="225"><a href="https://AhmadAwais.com/"><img src="http://on.ahmda.ws/mtoD/c" alt="" /></a></td>
-        <td width="225"><a href="https://AhmadAwais.com/"><img src="http://on.ahmda.ws/mtqw/c" alt="" /></a></td>
+        <td width="225"><a target="_blank" href="https://wp-rocket.me/"><img src="http://on.ahmda.ws/mtrv/c" alt="" /></a></td>
+        <td width="225"><a target="_blank" href="https://blogvault.net/"><img src="http://on.ahmda.ws/mtph/c" alt="" /></a></td>
+        <td width="225"><a target="_blank" href="https://AhmadAwais.com/"><img src="http://on.ahmda.ws/mtmy/c" alt="" /></a></td>
+        <td width="225"><a target="_blank" href="http://wecobble.com/"><img src="http://on.ahmda.ws/mtrW/c" alt="" /></a></td>
     </tr>
     <tr>
-        <td width="225"><a href="https://AhmadAwais.com/"><img src="http://on.ahmda.ws/mu7e/c" alt="" /></a></td>
-        <td width="225"><a href="https://AhmadAwais.com/"><img src="http://on.ahmda.ws/mtrs/c" alt="" /></a></td>
-        <td width="225"><a href="https://AhmadAwais.com/"><img src="http://on.ahmda.ws/mu9A/c" alt="" /></a></td>
-        <td width="225"><a href="https://AhmadAwais.com/"><img src="http://on.ahmda.ws/mu9D/c" alt="" /></a></td>
+        <td width="225"><a target="_blank" href="https://AhmadAwais.com/"><img src="http://on.ahmda.ws/mu7e/c" alt="" /></a></td>
+        <td width="225"><a target="_blank" href="https://AhmadAwais.com/"><img src="http://on.ahmda.ws/mtrs/c" alt="" /></a></td>
+        <td width="225"><a target="_blank" href="https://AhmadAwais.com/"><img src="http://on.ahmda.ws/mu9A/c" alt="" /></a></td>
+        <td width="225"><a target="_blank" href="https://AhmadAwais.com/"><img src="http://on.ahmda.ws/mu9D/c" alt="" /></a></td>
     </tr>
     <tr>
-        <td width="225"><a href="https://AhmadAwais.com/"><img src="http://on.ahmda.ws/mu8p/c" alt="" /></a></td>
-        <td width="225"><a href="https://AhmadAwais.com/"><img src="http://on.ahmda.ws/mtyS/c" alt="" /></a></td>
-        <td width="225"><a href="https://WPCouple.com/contact"><img src="http://on.ahmda.ws/mtqt/c" alt="" /></a></td>
-        <td width="225"><a href="https://WPCouple.com/contact"><img src="http://on.ahmda.ws/mtqt/c" alt="" /></a></td>
+        <td width="225"><a target="_blank" href="https://AhmadAwais.com/"><img src="http://on.ahmda.ws/mu8p/c" alt="" /></a></td>
+        <td width="225"><a target="_blank" href="https://AhmadAwais.com/"><img src="http://on.ahmda.ws/mtyS/c" alt="" /></a></td>
+        <td width="225"><a target="_blank" href="https://WPCouple.com/contact"><img src="http://on.ahmda.ws/mtqt/c" alt="" /></a></td>
+        <td width="225"><a target="_blank" href="https://WPCouple.com/contact"><img src="http://on.ahmda.ws/mtqt/c" alt="" /></a></td>
     </tr>
 </table>
