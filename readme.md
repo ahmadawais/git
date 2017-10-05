@@ -10,9 +10,7 @@ Nulla nec varius dui. Aliquam erat volutpat. Nunc at viverra nisi, id lobortis q
 
 ---
 ### 🙌 [WPCOUPLE PARTNERS](https://WPCouple.com/partners):
-This open source project is maintained by the help of awesome businesses listed below. Do check them out. 
-
-What? OK! [Read more about it →](https://WPCouple.com/partners)
+This open source project is maintained by the help of awesome businesses listed below. What? [Read more about it →](https://WPCouple.com/partners)
 
 <table width='100%'>
     <tr>
