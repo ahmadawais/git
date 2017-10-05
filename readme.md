@@ -3,6 +3,8 @@
 IGNORE THIS ONE!
 
 <table width='100%'>
+    <strong><a href="https://WPCouple.com/partners">WPCOUPLE PARTNERS</a>:</strong>
+    <p>This open source project is maintained by the help of awesome businesses listed below. Do check them out. What? OK! <a href="https://WPCouple.com/partners">Read more about it</a>.</p>
     <tr>
         <td><a href="https://AhmadAwais.com/"><img src="http://on.ahmda.ws/mu6W/c" alt="" /></a></td>
         <td><a href="https://AhmadAwais.com/"><img src="http://on.ahmda.ws/mtiU/c" alt="" /></a></td>
