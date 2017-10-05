@@ -29,14 +29,14 @@ What? OK! [Read more about it →](https://WPCouple.com/partners)
     </tr>
     <tr>
         <td width="225"><a target="_blank" href="https://www.cloudways.com/?utm_source=WPCouple&utm_medium=Partner"><img src="http://on.ahmda.ws/mu0C/c" alt="" /></a></td>
-        <td width="225"><a target="_blank" href="https://AhmadAwais.com/?utm_source=WPCouple&utm_medium=Partner"><img src="http://on.ahmda.ws/mtrs/c" alt="" /></a></td>
-        <td width="225"><a target="_blank" href="https://AhmadAwais.com/?utm_source=WPCouple&utm_medium=Partner"><img src="http://on.ahmda.ws/mu9A/c" alt="" /></a></td>
-        <td width="225"><a target="_blank" href="https://AhmadAwais.com/?utm_source=WPCouple&utm_medium=Partner"><img src="http://on.ahmda.ws/mu9D/c" alt="" /></a></td>
+        <td width="225"><a target="_blank" href="https://www.cozmoslabs.com/?utm_source=WPCouple&utm_medium=Partner"><img src="http://on.ahmda.ws/mtjH/c" alt="" /></a></td>
+        <td width="225"><a target="_blank" href="https://wpgeodirectory.com/?utm_source=WPCouple&utm_medium=Partner"><img src="http://on.ahmda.ws/mtwv/c" alt="" /></a></td>
+        <td width="225"><a target="_blank" href="https://www.wpsecurityauditlog.com/?utm_source=WPCouple&utm_medium=Partner"><img src="http://on.ahmda.ws/mu9D/c" alt="" /></a></td>
     </tr>
     <tr>
-        <td width="225"><a target="_blank" href="https://AhmadAwais.com/?utm_source=WPCouple&utm_medium=Partner"><img src="http://on.ahmda.ws/mu8p/c" alt="" /></a></td>
-        <td width="225"><a target="_blank" href="https://AhmadAwais.com/?utm_source=WPCouple&utm_medium=Partner"><img src="http://on.ahmda.ws/mtyS/c" alt="" /></a></td>
-        <td width="225"><a target="_blank" href="https://WPCouple.com/contact?utm_source=WPCouple&utm_medium=Partner"><img src="http://on.ahmda.ws/mtqt/c" alt="" /></a></td>
-        <td width="225"><a target="_blank" href="https://WPCouple.com/contact?utm_source=WPCouple&utm_medium=Partner"><img src="http://on.ahmda.ws/mtqt/c" alt="" /></a></td>
+        <td width="225"><a target="_blank" href="https://www.liquidweb.com//?utm_source=WPCouple&utm_medium=Partner"><img src="http://on.ahmda.ws/mtnt/c" alt="" /></a></td>
+        <td width="225"><a target="_blank" href="https://WPCouple.com/contact?utm_source=WPCouple&utm_medium=Partner"><img src="http://on.ahmda.ws/mtwZ/c" alt="" /></a></td>
+        <td width="225"><a target="_blank" href="https://WPCouple.com/contact?utm_source=WPCouple&utm_medium=Partner"><img src="http://on.ahmda.ws/mtwZ/c" alt="" /></a></td>
+        <td width="225"><a target="_blank" href="https://WPCouple.com/contact?utm_source=WPCouple&utm_medium=Partner"><img src="http://on.ahmda.ws/mtwZ/c" alt="" /></a></td>
     </tr>
 </table>
