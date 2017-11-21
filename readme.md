@@ -1,5 +1,5 @@
 # Test Git & GitHub Repo
-[![All Contributors](https://img.shields.io/badge/all_contributors-0-orange.svg?style=flat-square)](#contributors)
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors)
 
 IGNORE THIS ONE!
 
@@ -45,6 +45,8 @@ This open source project is maintained by the help of awesome businesses listed 
 Thanks goes to these wonderful people ([emoji key](https://github.com/kentcdodds/all-contributors#emoji-key)):
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+| [<img src="https://avatars1.githubusercontent.com/u/960133?v=4" width="100px;"/><br /><sub><b>Ahmad Awais ⚡️</b></sub>](https://AhmadAwais.com/)<br />[💻](https://github.com/ahmadawais/Git/commits?author=ahmadawais "Code") [🚇](#infra-ahmadawais "Infrastructure (Hosting, Build-Tools, etc)") [📖](https://github.com/ahmadawais/Git/commits?author=ahmadawais "Documentation") |
+| :---: |
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 This project follows the [all-contributors](https://github.com/kentcdodds/all-contributors) specification. Contributions of any kind welcome!
