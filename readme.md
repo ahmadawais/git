@@ -1,6 +1,52 @@
 # Test Git & GitHub Repo
 [![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors)
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+GitHub: Creating a commit with multiple authors!
+
+>→ Think when you want to give props or merged PR's? Awesome!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 IGNORE THIS ONE!
 
 The props!
