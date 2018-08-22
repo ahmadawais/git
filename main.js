@@ -14,3 +14,10 @@
  */
 export const sum = (x, y) => x + y;
 
+/**
+ * Subtraction.
+ *
+ * @param {Number} x
+ * @param {Number} y
+ */
+export const subtract = (x, y) => x - y;
