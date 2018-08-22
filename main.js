@@ -5,3 +5,12 @@
  *
  * @author Ahmad Awais
  */
+
+/**
+ * Summation.
+ *
+ * @param {Number} x
+ * @param {Number} y
+ */
+export const sum = (x, y) => x + y;
+
