@@ -5,5 +5,3 @@
  *
  * @author Ahmad Awais
  */
-
-// Let's do the range split git commits.
