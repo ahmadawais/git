@@ -8,8 +8,8 @@ jobs:
         name: 'build'
         runs-on: ubuntu-latest
         steps:
+            - uses: actions/checkout@master
             - name: Generate Auto Changelog
-              uses: ahmadawais/action-auto-changelog@master
               uses: ahmadawais/action-auto-changelog@master
               with:
                   github_token: ${{ secrets.GITHUB_TOKEN }}
