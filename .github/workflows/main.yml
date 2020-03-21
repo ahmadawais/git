@@ -1,0 +1,15 @@
+name: 'TEST'
+on:
+    push:
+        branches:
+            - master
+jobs:
+    master:
+        name: 'build'
+        runs-on: ubuntu-latest
+        steps:
+            - uses: actions/checkout@master
+            - name: Auto-changelog
+              uses: ahmadawais/action-auto-changelog@master
+              env:
+                  GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
